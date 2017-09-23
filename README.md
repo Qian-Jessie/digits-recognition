@@ -1,9 +1,8 @@
 # Inspiration
 
-
 This script was inspired by my desire and progress towards learning machine learning. The code here was heavily borrowed from the provided code and exercises in Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python 
 
-#Contents
+# Contents
 
 Build a convolutional neural network in Python
 
